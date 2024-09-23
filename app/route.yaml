@@ -11,3 +11,4 @@ spec:
     kind: Service
     name: spring-petclinic
     weight: 100
+status: {}
